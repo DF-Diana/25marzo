@@ -1,0 +1,13 @@
+d:\25 marzo\bin\Debug\netcoreapp3.1\25 marzo.exe
+D:\25 marzo\bin\Debug\netcoreapp3.1\25 marzo.deps.json
+D:\25 marzo\bin\Debug\netcoreapp3.1\25 marzo.runtimeconfig.json
+D:\25 marzo\bin\Debug\netcoreapp3.1\25 marzo.runtimeconfig.dev.json
+d:\25 marzo\bin\Debug\netcoreapp3.1\25 marzo.dll
+d:\25 marzo\bin\Debug\netcoreapp3.1\25 marzo.pdb
+d:\25 marzo\obj\Debug\netcoreapp3.1\25 marzo.csprojAssemblyReference.cache
+d:\25 marzo\obj\Debug\netcoreapp3.1\25 marzo.AssemblyInfoInputs.cache
+d:\25 marzo\obj\Debug\netcoreapp3.1\25 marzo.AssemblyInfo.cs
+d:\25 marzo\obj\Debug\netcoreapp3.1\25 marzo.csproj.CoreCompileInputs.cache
+d:\25 marzo\obj\Debug\netcoreapp3.1\25 marzo.dll
+d:\25 marzo\obj\Debug\netcoreapp3.1\25 marzo.pdb
+D:\25 marzo\obj\Debug\netcoreapp3.1\25 marzo.genruntimeconfig.cache
